@@ -13,7 +13,7 @@ I plan to link Google Fonts to add a more interesting font. I plan to also add s
 
 ##### License Info
 
-##### MIT
+##### <a href=https://choosealicense.com/licenses/mit/>MIT</a>
 
 Copyright (c) 2023 Xochitl
 
